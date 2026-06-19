@@ -1,0 +1,7 @@
+# 码哥本地付费内容（不进入公开 repo）
+articles/ai-coding-mastery/
+articles/claude-poweruser/
+
+# 系统文件
+.DS_Store
+Thumbs.db
